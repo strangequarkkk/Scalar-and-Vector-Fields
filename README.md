@@ -12,7 +12,7 @@ In this Coursework/Project,
 
 4) Compared the plots of analytically determined 'grad h' and numerically computed 'grad h'.
 
-5) Wrote a program so that the vector field arrows only originate from the contours.
+5) Wrote a program so that the vector field arrows only originate from the contour lines.
 
 I have attached the relevant question sheet and recommend that it be read while you're looking at the code. The programs were written in a Jupyter Notebook which has also been attached.
 
