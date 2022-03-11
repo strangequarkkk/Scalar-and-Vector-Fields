@@ -1,4 +1,4 @@
-# Scalar-and-Vector-Fields-in-Python
+# ScalarandVectorFields in Python
 
 Python libraries used: Numpy, Matplotlib.pyplot.
 
