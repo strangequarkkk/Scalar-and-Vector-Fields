@@ -6,7 +6,7 @@ In this Coursework/Project,
 
 1) Wrote a program to represent a scalar field h as discrete contours in 2d using .contour function of matplotlib.pyplot.
 
-2) Used analytically deduced expressions for 'Grad h' to plot the vector field 'Grad h' as arrows using .quiver function of matplotlib.pyplot.
+2) Used analytically deduced expressions for 'Grad h' to plot the vector field as arrows (using .quiver function of matplotlib.pyplot).
 
 3) Used Numpy's gradient function to compute 'Grad h' numerically and then plotted the numerically calculated vector field 'grad h' as arrows using .quiver function of matplotlib.pyplot.
 
