@@ -2,7 +2,7 @@
 
 Python libraries used: Numpy, Matplotlib.pyplot.
 
-In this Coursework/Project,
+In this Coursework/Project:
 
 1) Wrote a program to represent a scalar field h as discrete contours in 2d using .contour function of matplotlib.pyplot.
 
